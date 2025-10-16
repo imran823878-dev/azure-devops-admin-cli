@@ -39,7 +39,6 @@ searchfields            search for a specific field by refname to see if it exis
 getfieldforprojects     list of projects and work item types the field is used in
 allpicklists            list all picklists and the field they are associated to
 picklistswithnofield    picklists that are not being used
-list-delete-plans       list out and delete (optional) delivery plans that have not been accessed in x number of days
 ```
 
 ### Examples

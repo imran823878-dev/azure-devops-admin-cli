@@ -4,7 +4,7 @@ CLI to manage work item admin tasks in Azure DevOps
 ## Building and running
 
  1. Open solution in Visual Studio and build the project.
- 2. Open bin > release folder (or debug) to find witadmin.exe
+ 2. Open bin > release folder (or debug) to find witadmin.exe 
  3. Run command line ```adoadmin.exe```
  4. Add arguments below to run specific commands
  
